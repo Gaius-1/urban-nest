@@ -13,8 +13,8 @@ import ClientOnly from './components/ClientOnly';
 import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
-  title: 'Airbnb',
-  description: 'Airbnb Clone',
+  title: 'Urban Nest',
+  description: 'The Urban Nest Realty website is a dynamic and feature-rich platform designed to streamline property booking, reservations, and management. Our project encompasses a range of functionalities aimed at enhancing the user experience for both guests and property owners.',
 }
 
 const font = Nunito({ 
